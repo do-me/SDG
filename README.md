@@ -31,5 +31,13 @@ df
 - Logos: https://www.un.org/sustainabledevelopment/news/communications-material/
 - SGD Names from 2023 report: https://unstats.un.org/sdgs/report/2023/ ([pdf](https://unstats.un.org/sdgs/report/2023/The-Sustainable-Development-Goals-Report-2023.pdf))
 
+## Info
+**Attention**: as of 2023 be aware that target 11.c does not have an indicator/UNSD code yet. Be careful when processing.
+```
+11.c Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials
+
+No suitable replacement indicator was proposed. The global statistical community is encouraged to work to develop an indicator that could be proposed for the 2025 comprehensive review. See E/CN.3/2020/2, paragraph 23.
+```
+
 ## Collaboration 
 PR's very welcome. Please indicate what you corrected and why, possibly with the right data source. Else, feel free to file an issue.
