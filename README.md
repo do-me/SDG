@@ -3,6 +3,9 @@
 
 2023 updated list of SDGs, targets &amp; indicators ready for data processing with data sources
 
+![image](https://github.com/do-me/SDG/assets/47481567/234e4c1b-1a0e-4901-a660-a60cc9b75a27)
+
+
 ## Intro
 SDG targets & indicator get yearly updates and are hence quickly outdated.
 This repo holds data sources, a processing script and the final table you can freely use for any purpose: **SDG.xlsx** or **SDG.csv**
