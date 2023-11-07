@@ -8,7 +8,15 @@
 
 ## Intro
 SDG targets & indicator get yearly updates and are hence quickly outdated.
-This repo holds data sources, a processing script and the final table you can freely use for any purpose: **SDG.xlsx** or **SDG.csv**
+This repo holds data sources, a processing script and the final table you can freely use for any purpose: **SDG.xlsx** or **SDG.csv**.
+
+You can load the csv in pandas with:
+
+```python
+import pandas as pd
+df = pd.read_csv("SDG_Target_Indicator_UNSD_2023.csv",delimiter=";")
+df
+```
 
 ## Data sources 
 - Main indicator table homepage: https://unstats.un.org/sdgs/indicators/indicators-list/ ([xlsx](https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%202023%20refinement.English.xlsx))
