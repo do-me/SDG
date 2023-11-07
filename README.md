@@ -1,9 +1,11 @@
 # Sustainable Development Goals, Targets, Indicators
+**tl;dr**: download either the csv or xlsx **[SDG_Target_Indicator_UNSD_2023.csv](SDG_Target_Indicator_UNSD_2023.csv)** or **[SDG_Target_Indicator_UNSD_2023.xlsx](SDG_Target_Indicator_UNSD_2023.xlsx)**
+
 ![E_SDG_logo_without_UN_emblem_horizontal_RGB-1200x219](https://github.com/do-me/SDG/assets/47481567/51f39727-b565-428e-8620-faceaf219ab3)
 
-2023 updated list of SDGs, targets &amp; indicators ready for data processing with data sources
+2023 updated list of SDGs, targets &amp; indicators with target search keywords from the [JRC SDG Mapper](https://knowsdgs.jrc.ec.europa.eu/sdgmapper#api) ready for data processing. Data sources below.
 
-![image](https://github.com/do-me/SDG/assets/47481567/234e4c1b-1a0e-4901-a660-a60cc9b75a27)
+![image](https://github.com/do-me/SDG/assets/47481567/a915ec54-b5b3-4de0-a64c-28f2053149bf)
 
 
 ## Intro
