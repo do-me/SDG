@@ -18,6 +18,14 @@ df = pd.read_csv("SDG_Target_Indicator_UNSD_2023.csv",delimiter=";")
 df
 ```
 
+Or load the table directly in your script with pandas without cloning this repo or downloading any file manually:
+
+```python
+import pandas as pd
+df = pd.read_csv("https://raw.githubusercontent.com/do-me/SDG/main/SDG_Target_Indicator_UNSD_2023.csv",delimiter=";")
+df
+```
+
 ## Data sources 
 - Main indicator table homepage: https://unstats.un.org/sdgs/indicators/indicators-list/ ([xlsx](https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%202023%20refinement.English.xlsx))
 - Logos: https://www.un.org/sustainabledevelopment/news/communications-material/
