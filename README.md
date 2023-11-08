@@ -34,7 +34,7 @@ df
 - SGD Names from 2023 report: https://unstats.un.org/sdgs/report/2023/ ([pdf](https://unstats.un.org/sdgs/report/2023/The-Sustainable-Development-Goals-Report-2023.pdf))
 
 ## Info
-**Attention**: as of 2023 be aware that target 11.c does not have an indicator/UNSD code yet. Be careful when processing.
+**Attention**: as of 2023 be aware that target 11.c does not have an indicator/UNSD code yet. Check [here](https://sdgs.un.org/goals/goal11#targets_and_indicators) too. Be careful when processing.
 ```
 11.c Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials
 
